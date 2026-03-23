@@ -1,4 +1,4 @@
-# 🎮 Block Buster - Brick Breaker Game   
+# 🎮 Block Buster - Brick Breaker Game    
 
 
 <div align="center">
